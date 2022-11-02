@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Archit5655
-- 👀 I’m interested in being a full stack developer 
-- 🌱 I’m currently learning python & java 
+- 👋 Hi, I’m @Archit
+- 🌱 I’m currently learning python & java and web development
 - 📫 How to reach me archiitgagra@gmail.com
 
 <!---
