@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Archit</h1>
-<h3 align="center">I am  passionate to be a full stack developer</h3>
+<h3 align="center">I am a mern stack developer I like to create webapps and solutions for complex problems </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archit5655&label=Profile%20views&color=0e75b6&style=flat" alt="archit5655" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archit5655" alt="archit5655" /></a> </p> -->
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611e8cbf71886a49ac07ab239af5662edea2138d8a4&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **front end development**
+- 🌱I'm a MERN Stack Developer
+- Learning And Growing 
 
-- 💬 Ask me about **html,css,python**
+- 💬 Ask me about Javascript
+- REACT+NEXTJS
+- NODEJs,Express,Mongodb
 
 - 📫 How to reach me **architgargagra@gmail.com**
 
